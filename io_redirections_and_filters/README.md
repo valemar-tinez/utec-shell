@@ -13,3 +13,6 @@ Muestra el contenido del archivo /etc/passwd.
 
 ## 3-twofiles
 Muestra el contenido de /etc/passwd y /etc/hosts.
+
+## 4-lastlines
+Muestra las últimas 10 líneas de /etc/passwd.
