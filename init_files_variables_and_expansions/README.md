@@ -32,3 +32,6 @@ Divide el valor de `POWER` entre `DIVIDE` y muestra el resultado.
 
 ## 10-love_exponent_breath
 Eleva `BREATH` a la potencia `LOVE` y muestra el resultado.
+
+## 11-binary_to_decimal
+Convierte el valor binario almacenado en `BINARY` a decimal.
