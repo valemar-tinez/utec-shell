@@ -1,0 +1,16 @@
+total 88
+drwxr-xr-x@ 15 valentinamartinez  staff  480 Sep 28 12:00 .
+drwxr-xr-x@  7 valentinamartinez  staff  224 Sep 28 11:18 ..
+-rwxr-xr-x@  1 valentinamartinez  staff   32 Sep 28 11:19 0-hello_world
+-rwxr-xr-x@  1 valentinamartinez  staff   30 Sep 28 11:27 1-confused_smiley
+-rwxr-xr-x@  1 valentinamartinez  staff   28 Sep 28 11:34 2-hellofile
+-rwxr-xr-x@  1 valentinamartinez  staff   39 Sep 28 11:39 3-twofiles
+-rwxr-xr-x@  1 valentinamartinez  staff   29 Sep 28 11:43 4-lastlines
+-rwxr-xr-x@  1 valentinamartinez  staff   29 Sep 28 11:49 5-firstlines
+-rwxr-xr-x@  1 valentinamartinez  staff   40 Sep 28 11:52 6-third_line
+-rwxr-xr-x@  1 valentinamartinez  staff   89 Sep 28 11:55 7-file
+-rwxr-xr-x@  1 valentinamartinez  staff   36 Sep 28 12:00 8-cwd_state
+-rw-r--r--@  1 valentinamartinez  staff    0 Sep 28 11:41 README
+-rw-r--r--@  1 valentinamartinez  staff  599 Sep 28 11:57 README.md
+-rw-r--r--@  1 valentinamartinez  staff   12 Sep 28 11:56 \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+-rw-r--r--@  1 valentinamartinez  staff    0 Sep 28 12:00 ls_cwd_content
