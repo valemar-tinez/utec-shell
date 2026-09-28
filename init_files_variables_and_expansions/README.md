@@ -41,3 +41,6 @@ Muestra todas las combinaciones de dos letras minúsculas excepto `oo`.
 
 ## 13-print_float
 Muestra el valor de `NUM` con dos decimales.
+
+## 14-decimal_to_hexadecimal
+Convierte el valor decimal almacenado en `DECIMAL` a hexadecimal.
