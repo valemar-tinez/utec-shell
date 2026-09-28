@@ -17,3 +17,6 @@ Muestra todas las variables de entorno disponibles.
 
 ## 5-local_variables
 Muestra las variables locales, las variables de entorno y las funciones del shell.
+
+## 6-create_local_variable
+Crea la variable local `BEST` con el valor `School`.
