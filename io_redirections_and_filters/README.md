@@ -37,3 +37,6 @@ Elimina todos los archivos .js del directorio actual y sus subdirectorios.
 
 ## 11-directories
 Cuenta los directorios y subdirectorios del directorio actual.
+
+## 12-newest_files
+Muestra los 10 archivos más recientes del directorio actual.
