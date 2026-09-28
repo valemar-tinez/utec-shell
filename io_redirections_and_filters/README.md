@@ -61,3 +61,6 @@ Muestra las líneas de /etc/ssh/sshd_config que comienzan con una letra.
 
 ## 19-AZ
 Reemplaza A por Z y c por e en la entrada.
+
+## 20-hiago
+Elimina las letras c y C de la entrada.
