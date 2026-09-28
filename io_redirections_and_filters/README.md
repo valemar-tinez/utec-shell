@@ -55,3 +55,6 @@ Muestra las líneas con root y las 3 líneas siguientes de /etc/passwd.
 
 ## 17-hidethisword
 Muestra las líneas de /etc/passwd que no contienen la palabra bin.
+
+## 18-letteronly
+Muestra las líneas de /etc/ssh/sshd_config que comienzan con una letra.
