@@ -64,3 +64,6 @@ Reemplaza A por Z y c por e en la entrada.
 
 ## 20-hiago
 Elimina las letras c y C de la entrada.
+
+## 21-reverse
+Invierte el texto de entrada.
