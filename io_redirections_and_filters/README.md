@@ -49,3 +49,6 @@ Muestra las líneas de /etc/passwd que contienen la palabra root.
 
 ## 15-countthatword
 Cuenta las líneas de /etc/passwd que contienen la palabra bin.
+
+## 16-whatsnext
+Muestra las líneas con root y las 3 líneas siguientes de /etc/passwd.
