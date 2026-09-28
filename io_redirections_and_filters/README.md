@@ -31,3 +31,6 @@ Guarda el resultado de ls -la en el archivo ls_cwd_content.
 
 ## 9-duplicate_last_line
 Duplica la última línea del archivo iacta.
+
+## 10-no_more_js
+Elimina todos los archivos .js del directorio actual y sus subdirectorios.
