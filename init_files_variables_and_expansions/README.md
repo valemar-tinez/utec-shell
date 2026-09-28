@@ -8,3 +8,6 @@ Muestra un saludo con el usuario actual.
 
 ## 2-path
 Agrega /action al final de la variable PATH.
+
+## 3-paths
+Cuenta cuántos directorios hay en la variable `PATH`.
