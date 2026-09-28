@@ -7,3 +7,6 @@ Imprime el mensaje "Hello,World".
 
 ## 1-confused_smiley
 Muestra una carita confundida.
+
+## 2-hellofile
+Muestra el contenido del archivo /etc/passwd.
