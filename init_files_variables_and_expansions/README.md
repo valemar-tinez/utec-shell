@@ -29,3 +29,6 @@ Suma 128 al valor de la variable de entorno `TRUEKNOWLEDGE` y muestra el resulta
 
 ## 9-divide_and_rule
 Divide el valor de `POWER` entre `DIVIDE` y muestra el resultado.
+
+## 10-love_exponent_breath
+Eleva `BREATH` a la potencia `LOVE` y muestra el resultado.
