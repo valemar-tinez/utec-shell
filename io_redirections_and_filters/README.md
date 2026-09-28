@@ -28,3 +28,6 @@ Crea un archivo con caracteres especiales que contiene el texto "Best School".
 
 ## 8-cwd_state
 Guarda el resultado de ls -la en el archivo ls_cwd_content.
+
+## 9-duplicate_last_line
+Duplica la última línea del archivo iacta.
