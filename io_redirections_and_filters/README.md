@@ -43,3 +43,6 @@ Muestra los 10 archivos más recientes del directorio actual.
 
 ## 13-unique
 Muestra las palabras que aparecen una sola vez y las ordena.
+
+## 14-findthatword
+Muestra las líneas de /etc/passwd que contienen la palabra root.
