@@ -25,3 +25,6 @@ Muestra la tercera línea del archivo iacta.
 
 ## 7-file
 Crea un archivo con caracteres especiales que contiene el texto "Best School".
+
+## 8-cwd_state
+Guarda el resultado de ls -la en el archivo ls_cwd_content.
