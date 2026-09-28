@@ -52,3 +52,6 @@ Cuenta las líneas de /etc/passwd que contienen la palabra bin.
 
 ## 16-whatsnext
 Muestra las líneas con root y las 3 líneas siguientes de /etc/passwd.
+
+## 17-hidethisword
+Muestra las líneas de /etc/passwd que no contienen la palabra bin.
