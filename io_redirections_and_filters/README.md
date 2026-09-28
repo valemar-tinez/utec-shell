@@ -10,3 +10,6 @@ Muestra una carita confundida.
 
 ## 2-hellofile
 Muestra el contenido del archivo /etc/passwd.
+
+## 3-twofiles
+Muestra el contenido de /etc/passwd y /etc/hosts.
