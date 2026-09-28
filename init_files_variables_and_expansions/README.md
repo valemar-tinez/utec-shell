@@ -23,3 +23,6 @@ Crea la variable local `BEST` con el valor `School`.
 
 ## 7-create_global_variable
 Crea la variable global `BEST` con el valor `School`.
+
+## 8-true_knowledge
+Suma 128 al valor de la variable de entorno `TRUEKNOWLEDGE` y muestra el resultado.
