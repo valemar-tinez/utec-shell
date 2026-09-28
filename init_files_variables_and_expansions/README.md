@@ -38,3 +38,6 @@ Convierte el valor binario almacenado en `BINARY` a decimal.
 
 ## 12-combinations
 Muestra todas las combinaciones de dos letras minúsculas excepto `oo`.
+
+## 13-print_float
+Muestra el valor de `NUM` con dos decimales.
