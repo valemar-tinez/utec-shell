@@ -11,3 +11,6 @@ Agrega /action al final de la variable PATH.
 
 ## 3-paths
 Cuenta cuántos directorios hay en la variable `PATH`.
+
+## 4-global_variables
+Muestra todas las variables de entorno disponibles.
