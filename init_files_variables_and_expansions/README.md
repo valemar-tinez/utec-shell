@@ -35,3 +35,6 @@ Eleva `BREATH` a la potencia `LOVE` y muestra el resultado.
 
 ## 11-binary_to_decimal
 Convierte el valor binario almacenado en `BINARY` a decimal.
+
+## 12-combinations
+Muestra todas las combinaciones de dos letras minúsculas excepto `oo`.
