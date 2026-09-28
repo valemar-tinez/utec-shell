@@ -67,3 +67,6 @@ Elimina las letras c y C de la entrada.
 
 ## 21-reverse
 Invierte el texto de entrada.
+
+## 22-users_and_homes
+Muestra los usuarios y sus directorios de inicio ordenados por usuario.
