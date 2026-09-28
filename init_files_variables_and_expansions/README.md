@@ -26,3 +26,6 @@ Crea la variable global `BEST` con el valor `School`.
 
 ## 8-true_knowledge
 Suma 128 al valor de la variable de entorno `TRUEKNOWLEDGE` y muestra el resultado.
+
+## 9-divide_and_rule
+Divide el valor de `POWER` entre `DIVIDE` y muestra el resultado.
