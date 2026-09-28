@@ -20,3 +20,6 @@ Muestra las variables locales, las variables de entorno y las funciones del shel
 
 ## 6-create_local_variable
 Crea la variable local `BEST` con el valor `School`.
+
+## 7-create_global_variable
+Crea la variable global `BEST` con el valor `School`.
