@@ -40,3 +40,6 @@ Cuenta los directorios y subdirectorios del directorio actual.
 
 ## 12-newest_files
 Muestra los 10 archivos más recientes del directorio actual.
+
+## 13-unique
+Muestra las palabras que aparecen una sola vez y las ordena.
