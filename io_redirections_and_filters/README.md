@@ -22,3 +22,6 @@ Muestra las primeras 10 líneas de /etc/passwd.
 
 ## 6-third_line
 Muestra la tercera línea del archivo iacta.
+
+## 7-file
+Crea un archivo con caracteres especiales que contiene el texto "Best School".
