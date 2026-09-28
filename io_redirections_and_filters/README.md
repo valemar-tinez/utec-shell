@@ -34,3 +34,6 @@ Duplica la última línea del archivo iacta.
 
 ## 10-no_more_js
 Elimina todos los archivos .js del directorio actual y sus subdirectorios.
+
+## 11-directories
+Cuenta los directorios y subdirectorios del directorio actual.
